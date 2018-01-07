@@ -1,0 +1,169 @@
+
+
+
+
+
+.nav_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+    background-color: #F5F5F5;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: #304269;
+    font-size: 17px;
+    padding-left: 50px;
+    padding-right: 4px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: px;
+    display: block;
+}
+
+a:hover {
+    color: #F26101;
+}
+
+nav {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.info_box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.cirkler {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.splash {
+
+}
+
+div {
+
+}
+
+body {
+    margin: 0;
+}
+
+.cirkel_1 {
+    text-align: center;
+}
+
+.cirkel_2 {
+    text-align: center;
+}
+
+.portfolio_cirkel {
+    width: 10vw;
+    padding: 20px;
+}
+
+.cv_cirkel {
+    width: 10vw;
+    padding: 20px;
+}
+
+.intro_tekst {
+    width: 400px;
+    text-align: justify;
+}
+
+.link {
+    padding: 0px;
+    display: inline;
+}
+
+.projekt_1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.stilart_1 {
+    width: 25vw;
+    padding: 10px;
+}
+
+.beskrivelse {
+    width: 500px;
+    margin: 20px;
+    text-align: justify;
+}
+
+.section_divider {
+    border-bottom: 2px solid #f5f5f5;
+    width: 80vw;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.projekt_2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.projekt_3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.morten_dox {
+      width: 25vw;
+    padding: 10px;
+}
+
+.cph_dox {
+      width: 25vw;
+    padding: 10px;
+}
+
+.projekt_4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.helt {
+    width: 20vw;
+}
+
+.skurk {
+    width: 20vw;
+}
+
+.billede_2_rotate {
+    width: 20vw;
+    transform: rotate(-90deg)
+}
+
+.billede_1_rotate {
+    width: 20vw;
+    transform: rotate(-90deg)
+}
+
+.billeder_row {
+    display: flex
+}
