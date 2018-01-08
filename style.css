@@ -75,7 +75,10 @@ nav {
     flex-wrap: wrap;
 }
 
-.splash {}
+.splash {
+    display: flex;
+    align-items: center;
+}
 
 div {}
 
@@ -186,4 +189,50 @@ body {
 
 .billeder_row {
     display: flex
+}
+
+.section_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.image {
+    text-align: center;
+}
+
+
+
+.cirkel {
+    width: 10vw;
+}
+
+.potrait_chris {
+    width: 30vw;
+}
+
+.potrait {
+
+
+}
+
+.section_wrapper_text {
+    width: 60vw;
+    text-align: center;
+}
+
+.splash_potrait {
+    width: 40vw;
+    width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  border-width: 10px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
 }
